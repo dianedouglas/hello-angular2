@@ -2,7 +2,7 @@
   app.AppComponent =
     ng.core.Component({
       selector: 'diane',
-      template: '<img src="http://static.comicvine.com/uploads/original/12/128825/2510063-thor.jpg" alt="" />'
+      template: '<img src="http://www.writeups.org/img/inset/Loki_h12.jpg" alt="" />'
     })
     .Class({
       constructor: function(){}
